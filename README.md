@@ -1,7 +1,7 @@
 # Quiz-App 
 A dynamic and interactive quiz application built using HTML, CSS, and JavaScript. Test your knowledge with a variety of multiple-choice questions fetched from an external API!
 
-🚀 Features
+## 🚀 Features
 Dynamic Questions: Questions are fetched from the Open Trivia Database API for fresh content.
 
 Multiple Choice: Each question presents four distinct answer choices.
@@ -20,7 +20,7 @@ Responsive Design: The application's layout adapts to various screen sizes.
 
 Intuitive Navigation: Clear links for playing the quiz, viewing high scores, and returning to the home page.
 
-🛠️ Technologies Used
+## 🛠️ Technologies Used
 HTML5: Provides the semantic structure for the quiz interface, including question display, choices, score, and navigation.
 
 CSS3: Styles the application with a clean, modern aesthetic, including animations for the loader and visual feedback for answers.
@@ -37,7 +37,7 @@ Updating the DOM dynamically.
 
 Utilizing localStorage for persistent high scores.
 
-▶️ How to Play
+## ▶️ How to Play
 Open index.html in your web browser.
 
 From the home page, click "Play" to start the quiz.
@@ -54,7 +54,7 @@ Once all questions are answered, you'll be redirected to the end screen to view 
 
 You can view the "High Scores" from the home page.
 
-⚙️ Installation & Setup
+## ⚙️ Installation & Setup
 This game is a client-side web application and does not require any complex installation or server-side setup.
 
 Clone the repository:
@@ -69,7 +69,7 @@ cd Quiz-App
 
 Open Home/index.html in your preferred web browser to start the application.
 
-🛣️ Future Enhancements (Ideas)
+## 🛣️ Future Enhancements (Ideas)
 Difficulty Selection: Allow users to choose different difficulty levels for questions.
 
 Category Selection: Enable users to pick specific question categories.
@@ -82,8 +82,8 @@ More Robust Error Handling: Display user-friendly messages if the API fails to l
 
 User Authentication: (More advanced) Implement user accounts to store personalized high scores.
 
-✍️ Author
+## ✍️ Author
 Shobhit Nautiyal
 
-📄 License
+### 📄 License
 This project is open source and available under the MIT License.
