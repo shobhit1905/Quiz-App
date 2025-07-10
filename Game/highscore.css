@@ -1,0 +1,27 @@
+#highscore-list{
+    list-style: none ;
+    width : 100% ;
+    padding-left : 0 ;
+    margin-bottom : 4rem ;
+    display : flex ;
+    flex-direction: column;
+    align-items: flex-start;
+}
+
+.high-scores{
+    font-size: 2.8rem ;
+    margin-bottom: 0.5rem ;
+    width : 100% ;
+    display : flex ;
+    justify-content: space-between ;
+}
+
+#highscore-name{
+    margin-right: 1rem ;
+    color : #56a5eb ;
+    width : 70% ;
+}
+
+#highscore-score{
+    color : #333 ;;
+}
